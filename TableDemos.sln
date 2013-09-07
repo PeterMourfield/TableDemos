@@ -1,0 +1,60 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Part0", "Part0\Part0.csproj", "{0CFF4C25-AC49-4560-9B5F-B62924F2DA15}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Part1", "Part1\Part1.csproj", "{2B6DD62F-0D7C-4963-B76B-D76A59C4F19E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Part2", "Part2\Part2.csproj", "{2C6493F3-01CB-4D84-B028-53BC4B8584DA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+		Release|iPhone = Release|iPhone
+		Ad-Hoc|iPhone = Ad-Hoc|iPhone
+		AppStore|iPhone = AppStore|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0CFF4C25-AC49-4560-9B5F-B62924F2DA15}.Ad-Hoc|iPhone.ActiveCfg = Ad-Hoc|iPhone
+		{0CFF4C25-AC49-4560-9B5F-B62924F2DA15}.Ad-Hoc|iPhone.Build.0 = Ad-Hoc|iPhone
+		{0CFF4C25-AC49-4560-9B5F-B62924F2DA15}.AppStore|iPhone.ActiveCfg = AppStore|iPhone
+		{0CFF4C25-AC49-4560-9B5F-B62924F2DA15}.AppStore|iPhone.Build.0 = AppStore|iPhone
+		{0CFF4C25-AC49-4560-9B5F-B62924F2DA15}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{0CFF4C25-AC49-4560-9B5F-B62924F2DA15}.Debug|iPhone.Build.0 = Debug|iPhone
+		{0CFF4C25-AC49-4560-9B5F-B62924F2DA15}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{0CFF4C25-AC49-4560-9B5F-B62924F2DA15}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{0CFF4C25-AC49-4560-9B5F-B62924F2DA15}.Release|iPhone.ActiveCfg = Release|iPhone
+		{0CFF4C25-AC49-4560-9B5F-B62924F2DA15}.Release|iPhone.Build.0 = Release|iPhone
+		{0CFF4C25-AC49-4560-9B5F-B62924F2DA15}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{0CFF4C25-AC49-4560-9B5F-B62924F2DA15}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+		{2B6DD62F-0D7C-4963-B76B-D76A59C4F19E}.Ad-Hoc|iPhone.ActiveCfg = Ad-Hoc|iPhone
+		{2B6DD62F-0D7C-4963-B76B-D76A59C4F19E}.Ad-Hoc|iPhone.Build.0 = Ad-Hoc|iPhone
+		{2B6DD62F-0D7C-4963-B76B-D76A59C4F19E}.AppStore|iPhone.ActiveCfg = AppStore|iPhone
+		{2B6DD62F-0D7C-4963-B76B-D76A59C4F19E}.AppStore|iPhone.Build.0 = AppStore|iPhone
+		{2B6DD62F-0D7C-4963-B76B-D76A59C4F19E}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{2B6DD62F-0D7C-4963-B76B-D76A59C4F19E}.Debug|iPhone.Build.0 = Debug|iPhone
+		{2B6DD62F-0D7C-4963-B76B-D76A59C4F19E}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{2B6DD62F-0D7C-4963-B76B-D76A59C4F19E}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{2B6DD62F-0D7C-4963-B76B-D76A59C4F19E}.Release|iPhone.ActiveCfg = Release|iPhone
+		{2B6DD62F-0D7C-4963-B76B-D76A59C4F19E}.Release|iPhone.Build.0 = Release|iPhone
+		{2B6DD62F-0D7C-4963-B76B-D76A59C4F19E}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{2B6DD62F-0D7C-4963-B76B-D76A59C4F19E}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+		{2C6493F3-01CB-4D84-B028-53BC4B8584DA}.Ad-Hoc|iPhone.ActiveCfg = Ad-Hoc|iPhone
+		{2C6493F3-01CB-4D84-B028-53BC4B8584DA}.Ad-Hoc|iPhone.Build.0 = Ad-Hoc|iPhone
+		{2C6493F3-01CB-4D84-B028-53BC4B8584DA}.AppStore|iPhone.ActiveCfg = AppStore|iPhone
+		{2C6493F3-01CB-4D84-B028-53BC4B8584DA}.AppStore|iPhone.Build.0 = AppStore|iPhone
+		{2C6493F3-01CB-4D84-B028-53BC4B8584DA}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{2C6493F3-01CB-4D84-B028-53BC4B8584DA}.Debug|iPhone.Build.0 = Debug|iPhone
+		{2C6493F3-01CB-4D84-B028-53BC4B8584DA}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{2C6493F3-01CB-4D84-B028-53BC4B8584DA}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{2C6493F3-01CB-4D84-B028-53BC4B8584DA}.Release|iPhone.ActiveCfg = Release|iPhone
+		{2C6493F3-01CB-4D84-B028-53BC4B8584DA}.Release|iPhone.Build.0 = Release|iPhone
+		{2C6493F3-01CB-4D84-B028-53BC4B8584DA}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{2C6493F3-01CB-4D84-B028-53BC4B8584DA}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Part2\Part2.csproj
+	EndGlobalSection
+EndGlobal
